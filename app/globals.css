@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+DE+VA+Guides&display=swap");
+
+* {
+  box-sizing: border-box !important;
+  font-family: "Playwrite DE VA Guides", cursive;
+  font-weight: 600;
+  font-style: normal;
+}
+
+html,
+body {
+  margin: 0px !important;
+  padding: 0px;
+}
+
+button,
+a:focus {
+  outline: none;
+  border: none;
+}
