@@ -1,11 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&family=Cairo+Play:wght@200..1000&family=Cairo:wght@200..1000&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap");
 
 * {
-  font-family: "Cairo Play", serif;
-  font-optical-sizing: auto;
+  font-family: sans-serif !important;
   font-weight: 500;
-  font-style: normal;
-  font-variation-settings: "slnt" 0;
+
   box-sizing: border-box;
 }
 

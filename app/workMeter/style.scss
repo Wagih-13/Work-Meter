@@ -13,7 +13,6 @@
     font-size: 28px;
     color: white !important;
     margin: 20px 0px;
-    font-family: "Cairo Play", serif;
   }
   .box {
     background-color: #1c1c1e;
@@ -38,7 +37,6 @@
       position: relative;
       width: fit-content;
       text-align: center;
-      font-family: "Cairo Play", serif;
       &:before {
         content: "";
         position: absolute;
@@ -127,6 +125,7 @@
       justify-content: center;
       align-items: flex-end;
       flex-wrap: nowrap;
+
       gap: 10px;
       .inputContainer {
         display: flex;
@@ -138,7 +137,6 @@
           font-size: 16px;
           color: white;
           text-align: center;
-          font-family: "Cairo Play", serif;
         }
         strong {
           background-color: #3e504371;
@@ -154,7 +152,6 @@
           -moz-border-radius: 4px;
           -ms-border-radius: 4px;
           -o-border-radius: 4px;
-          font-family: "Cairo Play", serif;
         }
       }
     }
@@ -173,7 +170,6 @@
         text-align: center;
         font-size: 20px;
         font-weight: bold;
-        font-family: "Cairo Play", serif;
         cursor: pointer;
         transition: 0.5s;
         -webkit-transition: 0.5s;
