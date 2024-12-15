@@ -1,10 +1,11 @@
-@import url("https://fonts.googleapis.com/css2?family=Playwrite+DE+VA+Guides&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&family=Cairo+Play:wght@200..1000&family=Cairo:wght@200..1000&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap");
 
 * {
-  box-sizing: border-box !important;
-  font-family: "Playwrite DE VA Guides", cursive;
-  font-weight: 600;
+  font-family: "Cairo Play", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
   font-style: normal;
+  font-variation-settings: "slnt" 0;
 }
 
 html,
